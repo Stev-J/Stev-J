@@ -23,7 +23,7 @@ J'entretiens et je documente mes compétences sur un homelab personnel. Chaque l
 
 | # | Lab | Techno | Statut |
 |---|-----|--------|--------|
-| 01 | Réseau multi-VLAN, routage inter-VLAN, pare-feu | Cisco, FortiGate, PNETLab | 🟡 En cours |
+| 01 | Réseau multi-VLAN, routage inter-VLAN, pare-feu | Cisco, FortiGate, Packet Tracer | 🟡 En cours |
 | 02 | Active Directory, DNS et GPO | Windows Server 2022 | ⚪ À venir |
 | 03 | Ticketing, inventaire et procédures N1 | GLPI, Debian | ⚪ À venir |
 | 04 | Automatisation de tâches d'administration | PowerShell | ⚪ À venir |
