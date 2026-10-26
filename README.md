@@ -24,7 +24,7 @@ J'entretiens et je documente mes compétences sur un homelab personnel. Chaque l
 | # | Lab | Techno | Statut |
 |---|-----|--------|--------|
 | 01 | [Infrastructure multi-VLAN, pare-feu et DMZ](https://github.com/Stev-J/homelab/tree/main/01-infra-multivlan-dmz) | Cisco Packet Tracer, ASA | ✅ Terminé |
-| 02 | Active Directory, DNS et GPO | Windows Server 2022 | 🟡 En cours |
+| 02 | [Active Directory, DNS, DHCP et GPO](./02-ad-dns-gpo/) | Windows Server 2022, Windows 11, pfSense, Zabbix | 🟡 En cours |
 | 03 | Ticketing, inventaire et procédures N1 | GLPI, Debian | ⚪ À venir |
 | 04 | Automatisation de tâches d'administration | PowerShell | ⚪ À venir |
 | 05 | Identités, licences et gestion de parc | Entra ID, Intune, M365 | ⚪ À venir |
