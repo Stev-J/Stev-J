@@ -24,12 +24,12 @@ J'entretiens et je documente mes compétences sur un homelab personnel. Chaque l
 | # | Lab | Techno | Statut |
 |---|-----|--------|--------|
 | 01 | [Infrastructure multi-VLAN, pare-feu et DMZ](https://github.com/Stev-J/homelab/tree/main/01-infra-multivlan-dmz) | Cisco Packet Tracer, ASA | ✅ Terminé |
-| 02 | [Active Directory, DNS, DHCP et GPO](https://github.com/Stev-J/homelab/tree/main/02-ad-dns-gpo) | Windows Server 2022, Windows 11, pfSense, Zabbix | 🟡 En cours |
+| 02 | [Active Directory, DNS, DHCP et GPO](https://github.com/Stev-J/homelab/tree/main/02-ad-dns-gpo) | Windows Server 2022, Windows 11, pfSense | 🟡 En cours |
 | 03 | Ticketing, inventaire et procédures N1 | GLPI, Debian | ⚪ À venir |
 | 04 | Automatisation de tâches d'administration | PowerShell | ⚪ À venir |
 | 05 | Identités, licences et gestion de parc | Entra ID, Intune, M365 | ⚪ À venir |
 | 06 | Poste standard, déploiement et sauvegarde | Windows 11, winget, Veeam | ⚪ À venir |
-| 07 | Supervision et administration Linux | Debian, Docker, Uptime Kuma | ⚪ À venir |
+| 07 | [Supervision d'infrastructure avec Zabbix](https://github.com/Stev-J/homelab/tree/main/07-supervision-zabbix) | Debian 13, Zabbix 7.0, PostgreSQL, SNMP | 🟡 En cours |
 | 08 | Segmentation IT/OT et filtrage Modbus | FortiGate, OpenPLC, Kali | ⚪ À venir |
 
 ---
@@ -39,6 +39,7 @@ J'entretiens et je documente mes compétences sur un homelab personnel. Chaque l
 **Systèmes** — Windows Server 2019/2022 (AD DS, DNS, DHCP, GPO), Windows 10/11, Debian, virtualisation VMware / Proxmox  
 **Réseau** — VLAN, 802.1Q, routage inter-VLAN, OSPF, NAT, ACL, VPN, Wi-Fi  
 **Sécurité** — FortiGate, Cisco ASA, segmentation, durcissement de base  
+**Supervision** — Zabbix (ICMP, SNMP, cartes, alertes), pfSense  
 **Cloud & parc** — Microsoft 365, Entra ID, Intune  
 **Scripting** — PowerShell, Bash  
 **Support** — GLPI, prise en main à distance, rédaction de procédures, relation utilisateur
